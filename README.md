@@ -2,7 +2,7 @@
 
 Flutter & Full-stack Developer from Russia
 
-I build applications that solve real business problems — from mobile apps with hardware integration to full-stack web platforms.
+I build applications that solve real business problems - from mobile apps with hardware integration to full-stack web platforms.
 
 ## 👀 About me
 
