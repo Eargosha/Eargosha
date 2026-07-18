@@ -109,9 +109,9 @@ Learning
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-___in process___
+___in process___-->
 
 <!-- GitHub Readme Stats -->
 
