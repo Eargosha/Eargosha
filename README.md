@@ -37,7 +37,7 @@ I build applications that solve real business problems - from mobile apps with h
 - MySQL
 - OracleDB
 
-### I can also show myself in
+### Additional experience
 - C++
 - C#
 - Python
@@ -58,7 +58,7 @@ I build applications that solve real business problems - from mobile apps with h
 
 ## 🔨 Featured Projects (I really like them)
 
-### Eventron [Deploy](https://eventron.chitgma.ru/)
+### Eventron [Deploy](https://eventron.chitgma.ru/) [Repo]
 Full-stack event management platform for Chita State Medical Academy.
 
 **Stack:** Vue.js • Node.js • PostgreSQL • WebSocket
@@ -75,7 +75,7 @@ Full-stack event management platform for Chita State Medical Academy.
 
 ---
 
-### Inventerization4AAS
+### Inventerization4AAS [Repo](https://github.com/Eargosha/Inventerization4AAS)
 Cross-platform inventory management application built with Flutter.
 
 **Features**
@@ -88,7 +88,7 @@ Cross-platform inventory management application built with Flutter.
 
 ---
 
-### TLSViewer
+### TLSViewer [Repo](https://github.com/Eargosha/TLSViewer)
 TLS traffic analyzer written in Python.
 
 It just a man in the middle (MITM) strategy realization 
