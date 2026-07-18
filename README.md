@@ -58,7 +58,7 @@ I build applications that solve real business problems - from mobile apps with h
 
 ## 🔨 Featured Projects (I really like them)
 
-### Eventron [It's here!!!](https://eventron.chitgma.ru/)
+### Eventron [Deploy](https://eventron.chitgma.ru/)
 Full-stack event management platform for Chita State Medical Academy.
 
 **Stack:** Vue.js • Node.js • PostgreSQL • WebSocket
